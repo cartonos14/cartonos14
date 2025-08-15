@@ -1,3 +1,13 @@
 a {
     display: inline;
+
+}
+@media (max-width: 768px) {
+  img {
+    height: auto;
+    max-height: 50vh; /* menos altura en móviles */
+  }
+  body {
+    background-size: contain;
+  }
 }
