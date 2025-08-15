@@ -2,9 +2,10 @@
     .rev {
         position: relative;
         bottom: 10px;
-        
+        right: 5px;
         width: 100%;
         max-width: 100%;
     }
 }
+
 
