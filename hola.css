@@ -1,6 +1,10 @@
 @media (max-width: 600px) {
     .rev {
-        display: none;
+        position: relative;
+        bottom: 10px;
+        
+        width: 100%;
+        max-width: 100%;
+        margin: 0 auto;
     }
 }
-
